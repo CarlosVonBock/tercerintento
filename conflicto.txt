@@ -1,1 +1,4 @@
 hoy si va a haber conflicto
+
+hoy si tiene que haber comflicto
+la clave es el commit que se debe hacer en cada rama
